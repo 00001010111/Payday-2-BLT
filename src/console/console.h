@@ -1,3 +1,4 @@
+/* the ifndef verify if the console header is still defined*/
 #ifndef __CONSOLE_HEADER__
 #define __CONSOLE_HEADER__
 #include <stdio.h>

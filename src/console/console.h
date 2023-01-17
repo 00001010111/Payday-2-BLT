@@ -1,4 +1,4 @@
-/* the ifndef verify if the console header is still defined*/
+/* the ifndef compile the script if an event happen like the classic if*/
 #ifndef __CONSOLE_HEADER__
 #define __CONSOLE_HEADER__
 #include <stdio.h>

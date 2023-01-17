@@ -1,10 +1,10 @@
-#include <windows.h>
+#include <windows.h> 
 #include <conio.h>
 #include <FCNTL.H>
 #include <io.h>
 #include "console.h"
 #include <iostream>
-
+/* This include the file that is needed to make the console work*/
 namespace
 {
 class outbuf : public std::streambuf
